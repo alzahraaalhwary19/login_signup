@@ -1,16 +1,42 @@
-# login_signup
+🔐 Login & Signup
 
-A new Flutter project.
+A clean and modern authentication UI built with Flutter.
 
-## Getting Started
+📱 Project Overview
 
-This project is a starting point for a Flutter application.
+Login & Signup is a Flutter mobile UI project focused on designing a simple and user-friendly authentication flow.
 
-A few resources to get you started if this is your first Flutter project:
+The project includes welcome, login, signup, and password recovery screens.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✨ UI Highlights
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Welcome screen
+- Login screen
+- Signup screen
+- Forgot password screen
+- Clean and modern authentication UI
+- Simple and user-friendly navigation
+
+📂 Project Structure
+
+lib/
+└── view/
+    ├── Forgot_password.dart
+    ├── login.dart
+    ├── signup.dart
+    └── welcome.dart
+
+assets/
+├── Google.png
+└── world.png
+
+🛠️ Technologies
+
+- Flutter
+- Dart
+
+📌 Project Type
+
+UI-focused Flutter mobile application.
+
+«This project focuses on the authentication interface and user experience.»
