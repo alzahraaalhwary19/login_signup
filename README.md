@@ -17,6 +17,15 @@ The project includes welcome, login, signup, and password recovery screens.
 - Clean and modern authentication UI
 - Simple and user-friendly navigation
 
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="Welcome_screen.png" width="200"/>
+  <img src="SignUp_screen.png" width="200"/>
+  <img src="Login_screen.png" width="200"/>
+  <img src="Forgot_Password_screen.png" width="200"/>
+</p>
+
 📂 Project Structure
 
 lib/
