@@ -20,10 +20,10 @@ The project includes welcome, login, signup, and password recovery screens.
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="Welcome_screen.png" width="200"/>
-  <img src="SignUp_screen.png" width="200"/>
-  <img src="Login_screen.png" width="200"/>
-  <img src="Forgot_Password_screen.png" width="200"/>
+  <img src="screenshots/Welcome_screen.png" width="200"/>
+  <img src="screenshots/SignUp_screen.png" width="200"/>
+  <img src="screenshots/Login_screen.png" width="200"/>
+  <img src="screenshots/Forgot_Password_screen.png" width="200"/>
 </p>
 
 📂 Project Structure
